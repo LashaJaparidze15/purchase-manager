@@ -1,0 +1,39 @@
+# Java compilation output
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+
+# Build tools
+build/
+.gradle/
+gradle/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp
+
+# Database credentials (keep db.inc.php out of version control)
+db.inc.php
